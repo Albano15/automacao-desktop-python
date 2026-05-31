@@ -28,7 +28,7 @@ Siga o passo a passo abaixo no seu terminal (PowerShell ou Prompt de Comando) pa
 
 ## 🚀 Como Executar
 
-Antes de rodar o script, garanta que os programas que serão interagidos (como o Spotify, Calculadora, etc.) estejam abertos ou acessíveis, e que as imagens de referência (como idioma.png) estejam salvas na pasta correta com a mesma escala do seu monitor.
+Antes de rodar o script, garanta que os programas que serão interagidos (como o Spotify, Calculadora, etc.) estejam abertos ou acessíveis, e que as imagens de referência (como idioma.png) estejam salvas na pasta correta com a mesma escala do seu monitor. Ou adicione as imagens de sua preferência e de sua área de trabalho.
 
 Para iniciar a automação, ative o ambiente virtual (se já não estiver ativo) e execute o arquivo principal:
 
