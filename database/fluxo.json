@@ -1,0 +1,79 @@
+{
+  "nome_processo": "Automacao Refatorada",
+  "passos": [
+    {
+      "acao": "abrir_programa",
+      "parametros": {
+        "nome_programa": "calc"
+      }
+    },
+    {
+      "acao": "clicar_em_imagem",
+      "parametros": {
+        "caminho_imagem": "./images/idioma.png"
+      }
+    },
+    {
+      "acao": "aguardar",
+      "parametros": {
+        "tempo": 6
+      }
+    },
+    {
+      "acao": "apertar_teclas",
+      "parametros": {
+        "teclas": "5",
+        "vezes": 5,
+        "intervalo": 0.2
+      }
+    },
+    {
+      "acao": "focar_janela",
+      "parametros": {
+        "titulo_janela": "Calculadora"
+      }
+    },
+    {
+      "acao": "apertar_teclas",
+      "parametros": {
+        "teclas": "*",
+        "vezes": 1,
+        "intervalo": 0.2
+      }
+    },
+    {
+      "acao": "clicar_em_imagem",
+      "parametros": {
+        "caminho_imagem": "./images/spotify.png"
+      }
+    },
+    {
+      "acao": "focar_janela",
+      "parametros": {
+        "titulo_janela": "Calculadora"
+      }
+    },
+    {
+      "acao": "apertar_teclas",
+      "parametros": {
+        "teclas": "2",
+        "vezes": 2,
+        "intervalo": 0.2
+      }
+    },
+    {
+      "acao": "apertar_teclas",
+      "parametros": {
+        "teclas": "enter",
+        "vezes": 1,
+        "intervalo": 0.2
+      }
+    },
+    {
+      "acao": "clicar_em_imagem",
+      "parametros": {
+        "caminho_imagem": "./images/windows.png"
+      }
+    }
+  ]
+}

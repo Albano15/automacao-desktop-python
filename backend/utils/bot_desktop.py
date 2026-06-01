@@ -1,3 +1,4 @@
+# utils\bot_desktop.py
 import pyautogui
 import time
 

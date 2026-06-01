@@ -1,3 +1,4 @@
+# index.py
 from utils.bot_desktop import BotDesktop
 
 def main():
