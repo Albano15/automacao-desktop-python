@@ -8,3 +8,5 @@ __pycache__/
 
 # Ignora arquivos de sistema do Windows
 Thumbs.db
+
+.env

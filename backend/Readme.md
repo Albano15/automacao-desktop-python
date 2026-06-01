@@ -20,9 +20,9 @@ Siga o passo a passo abaixo no seu terminal (PowerShell ou Prompt de Comando) pa
 2. Crie o ambiente virtual executando o comando:
    python -m venv venv
 3. Ative o ambiente virtual:
-   .\venv\Scripts\activate
+   .\venv\Scripts\activate   
 4. Com o ambiente ativado, instale as bibliotecas necessárias:
-   pip install pyautogui opencv-python pillow pygetwindow
+   pip install -r requirements.txt
 
 ---
 
